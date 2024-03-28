@@ -1,7 +1,9 @@
 # 💫 About Me:
 Hi 👋, I'm Oussama Benchkroune,
 
-I write code. ⌨️  I fix bugs. 🐞  Sometimes the bugs win. 🤷 Currently fueled by coffee and a persistent fear of 'production'. ☕
+I write code. ⌨️  I fix bugs. 🐞  Sometimes the bugs win. 🤷
+
+Currently fueled by coffee and a persistent fear of 'production'. ☕
 
 
 ## 🌐 Socials:
